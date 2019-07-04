@@ -115,6 +115,7 @@ adplug_scan_file(Path path_fs, TagHandler &handler) noexcept
 }
 
 static const char *const adplug_suffixes[] = {
+  "rol",
 	"amd",
 	"d00",
 	"hsc",
